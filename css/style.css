@@ -450,6 +450,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
   text-decoration: none;
 }
 
+
 #colorlib-services,
 #colorlib-contact,
 #colorlib-work,
@@ -518,7 +519,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
   bottom: 0;
   left: 0;
   right: 0;
-  font-size: 190px;
+  font-size: 150px;
   text-align: right;
   color: #f2f2f2;
   font-weight: 700;
